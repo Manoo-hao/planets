@@ -1,0 +1,5 @@
+# ignore all files with .dat extension
+*.dat
+
+#ignore files in results directory
+results/
